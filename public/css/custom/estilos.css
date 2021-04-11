@@ -1,0 +1,119 @@
+.custom_special_link a {
+  background: #eea107;
+  color: white !important;
+}
+.custom_special_link a:hover {
+  background: #ee9107 !important;
+  color: white;
+}
+.btn_encabezado {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.encabezado_box {
+  padding: 15px 90px 25px 15px;
+}
+
+.acciones {
+  width: 100px;
+}
+
+/*barra navegacion*/
+.color_nav {
+  margin-bottom: 0;
+  background: #ffd600;
+}
+
+.toggle_nav {
+  color: #000000 !Important;
+}
+.ur-container {
+  background: #ffd600;
+  width: auto;
+  border-radius: 3px;
+}
+/*boton menú*/
+.btn_men {
+  color: white;
+  background-color: #293846;
+  border-color: #293846;
+}
+.btn_men:hover {
+  color: white;
+  background-color: #293846;
+  border-color: #293846;
+}
+
+.caja {
+  margin-top: 20px;
+}
+
+.encabezado {
+  margin-bottom: 15px;
+}
+
+.encabezado_tabs {
+  margin-right: 10px;
+}
+
+.encabezado_tabs a {
+  color: white !important;
+}
+
+.espacio_encabezado {
+  padding-bottom: 25px;
+}
+.filesetpasos {
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+}
+legend {
+  font-size: 13px !important;
+  margin-bottom: 15px !important;
+}
+
+/* formulario wizard */
+.espacio {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* login */
+.box_login {
+  padding-top: 22px;
+  padding-bottom: 30px;
+}
+
+.imput_login {
+  margin-bottom: 22px;
+}
+
+.lista_login {
+  padding-left: 10px;
+}
+
+.diaconos {
+  text-transform: uppercase !important;
+}
+
+table.horarios thead th {
+  width: 142px;
+  padding: 10px;
+}
+
+table#horarios {
+  font-size: 13px;
+}
+
+.descripcion {
+  text-align: justify !important;
+}
+
+.seleccionado {
+  background: #e6e6e6;
+}
+.ancho {
+  width: 130px !important;
+}

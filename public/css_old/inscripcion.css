@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+    .content:not(.content--boxed):not(.content--full) {
+        padding: 102px 90px 0 100px;
+    }
+}
